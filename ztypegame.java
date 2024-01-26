@@ -128,23 +128,6 @@ class MtLoWord implements ILoWord {
   public ILoWord moveWords() {
     return this;
   }
-
-  // creates an ILoWord where only the first IWord is Active
-  /* (note to the graders) 
-   * I was told by a TA on Sunday that my
-   * idea for only having the first word be Active,
-   * while having the rest be Inactive in a list
-   *  would be completely valid for the game. 
-   * This restricts the user by only letting them type 
-   * the word that is closest to the 
-   * bottom of the screen, but the game still has all the 
-   * elements it is supposed to have. 
-   * I was only notified of a different way that I was 
-   * supposed to make this method, in the 
-   * office hours right before the submission, 
-   * and decided that it was too late to change my program.
-   * 
-   */
   
   public ILoWord firstActive() {
     return this;
