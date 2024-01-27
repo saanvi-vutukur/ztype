@@ -1,3 +1,6 @@
+Welcome to ZType! I programmed this game in Java, and used only lists and recursion to perform all of the looping mechanisms of playing the game. 
+
+
 Here is a brief overview on how to play my ZType game:
 
 Objective:
